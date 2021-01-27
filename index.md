@@ -11,7 +11,7 @@ The goal of this template is to provide a way to write very condensed indexes ty
 
 Here is an example preview:
 
-![](https://raw.githubusercontent.com/dhondta/tex-course-index-template/master/doc/preview.png)
+<p align="center"><img src="https://raw.githubusercontent.com/dhondta/tex-course-index-template/master/doc/preview.png"></p>
 
 ## Structure
 
