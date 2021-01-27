@@ -3,7 +3,7 @@ title: LaTeX Course Index Template
 layout: page
 use-site-title: false
 ---
-# LaTeX Course Index Template
+## Introduction
 
 The goal of this template is to provide a way to write very condensed indexes typically for courses with multiple books. It leverages [LaTeX indexing](https://en.wikibooks.org/wiki/LaTeX/Indexing) by using a `.idx` file for organizing the index entries. The way this template can be used is by directly editing the `.idx` file.
 
